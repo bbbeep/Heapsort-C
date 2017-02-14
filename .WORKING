@@ -1,0 +1,5 @@
+/home/jeremy/Documents/HeapSortFinal
+Thu Feb 11 05:32:20 CST 2016
+heap.c	    jjmccormick@crimson.ua.edu	nodequeue.h  treenode.c
+heap.h	    makefile			nodestack.c  treenode.h
+heapsort.c  nodequeue.c			nodestack.h  WORKING
